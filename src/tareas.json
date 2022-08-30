@@ -1,0 +1,38 @@
+{
+    "todos": [
+        {
+            "title": "task 1",
+            "responsible": "Mark",
+            "description": "lorem ipsum 1",
+            "priority": "low"
+        },
+        
+        {
+            "title": "task 2",
+            "responsible": "Ryan",
+            "description": "lorem ipsum 2",
+            "priority": "medium"
+        },
+
+        {
+            "title": "task 3",
+            "responsible": "Joe",
+            "description": "lorem ipsum 3",
+            "priority": "high"
+        }, 
+
+        {
+            "title": "task 4",
+            "responsible": "Morgan",
+            "description": "lorem ipsum 4",
+            "priority": "low"
+        },
+
+        {
+            "title": "task 5",
+            "responsible": "Markus",
+            "description": "lorem ipsum 5",
+            "priority": "high"
+        }
+    ]
+}
